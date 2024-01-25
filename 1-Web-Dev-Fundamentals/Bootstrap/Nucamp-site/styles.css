@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.outer {
+    margin: 5rem auto;
+    background-color: gold;
+}
+ .inner {
+    background-color: white;
+    text-align: center;
+ }
+.container {
+    border: 2px solid black;
+    max-width: 800px;
+    padding: 2rem;
+   
+}
+.hero {
+    width: 100%;
+    background-color: #219ebc;
+    margin: -40px auto;
+    font-size: 2.5rem;
+}
+li {
+    list-style: none;
+  
+    
+}
+a{
+    text-decoration: none;
+    color: #0f1316; 
+}
+h1 {
+    margin-left: 3rem;
+}
